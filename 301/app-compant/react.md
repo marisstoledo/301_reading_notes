@@ -3,37 +3,37 @@
 - to import an entire entire package
 
 2. How does React know you are referring to a React component?
--
+- using extend 
 
 3. What is `<Header />`, `<Main />` and `<Footer />`?
-- Write your answer here...
+-sections
 
 4. Why must a user-defined component be capitalized?
-- Write your answer here...
+- to indicate that the JSX tag is referring to a react component.
 
 5. What is a fragment?
-- Write your answer here...
+- groups a list of children w/o adding extra nods
 
 6. What does the keyword `class` tell us about this App Component?
-- Write your answer here...
+- is a basic ES6 class 
 
 7. What does the keyword `extends` do?
-- Write your answer here...
+- to subclass custom classes 
 
 8. What data type is React.Component?
-- Write your answer here...
+- class
 
 9. When do you not need to implement a constructor method?
-- Write your answer here...
+- call super(props) before all statements 
 
 10. What does `super(props)` do?
-- Write your answer here...
+- access and calls functions on an object's parent 
 
 11. What do we know about the state object?
-- Write your answer here...
+- where you store property vaules that belongs to the componets
 
 12. What does `render()` do?
-- Write your answer here...
+- returns react elements 
 
 13. What does `export default` do?
-- Write your answer here...
+- creates Javascript modules to export live bindings of functions, objects, and pirmiters 
