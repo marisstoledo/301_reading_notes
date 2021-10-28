@@ -112,7 +112,7 @@ let sum = function(a, b, c, d) {
   return a + b + c + d;
 };
 
-let sum = a + b + c + d => sum;
+let sum = (a + b + c + d => sum);
 
 // TODO: Uncomment the following line of code to see the output in the browser console
  console.log(sum(1, 2, 3, 4));
