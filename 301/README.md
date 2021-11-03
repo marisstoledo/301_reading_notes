@@ -14,3 +14,4 @@ A collection of notes taken for Code Fellows 301: Intermediate Software Developm
 - [Array review](301/array.review.md)
 - [Solving code challenges](301/how.to.solve.md)
 - [Review for loops](301/review.loops.md)
+-  [Intro to array.forEach](301/intro.array.for.md)
